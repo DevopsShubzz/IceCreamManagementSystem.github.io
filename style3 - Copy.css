@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(250, 212, 218);
+}
+.main-heading1 {
+    color: #4f5053;
+    font-size: 25px;
+    font-size: 50px;
+}
+.margin-top-30 {
+    margin-top: 30px;
+}
+.margin-bottom-30 {
+    margin-bottom: 30px;
+}
+.h1{
+    font-family:"Brush Script MT";
+    margin-left: 200px;
+}
+p{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 20;
+}
+.img{
+    width: 200;
+    height: 200;
+}
